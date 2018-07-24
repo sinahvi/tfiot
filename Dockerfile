@@ -1,3 +1,4 @@
+# ----------------------------automated build via dockerhub
 FROM alpine
 RUN apk add nodejs
 COPY . .
